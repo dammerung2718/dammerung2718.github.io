@@ -6,6 +6,8 @@ I write about software and myself here.
 
 Take a look.
 
-- [Vi](/tools.vi.html)
-- [Shell](/tools.shell.html)
+- [Tools](/tools.html)
+  * [Vi](/tools.vi.html)
+  * [Shell](/tools.shell.html)
+
 - [Love](/love.html)
