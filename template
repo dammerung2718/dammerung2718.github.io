@@ -57,6 +57,25 @@
 			img {
 				max-width: 90%;
 			}
+
+			code {
+				background-color: rgba(255, 99, 71, 0.075);
+			}
+
+			div.sourceCode {
+				margin: 10px 0px;
+				padding: 10px;
+				overflow: scroll;
+				background-color: rgba(255, 99, 71, 0.075);
+			}
+
+			pre {
+				margin: 0px;
+			}
+
+			div.sourceCode code {
+				background-color: rgba(255, 99, 71, 0.000);
+			}
 		</style>
 	</head>
 

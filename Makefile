@@ -1,4 +1,4 @@
-FD       = fdfind
+FD       = fd
 MARKDOWN = $(wildcard docs/*.md)
 HTML     = $(MARKDOWN:.md=.html)
 
